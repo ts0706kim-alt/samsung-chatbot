@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/samsung-chatbot/static/css/main.88e261b6.css",
-    "main.js": "/samsung-chatbot/static/js/main.e0aaf839.js",
+    "main.css": "/samsung-chatbot/static/css/main.d082b25f.css",
+    "main.js": "/samsung-chatbot/static/js/main.b288fe04.js",
     "static/js/453.792555a1.chunk.js": "/samsung-chatbot/static/js/453.792555a1.chunk.js",
     "static/media/bootstrap-icons.woff?": "/samsung-chatbot/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
     "static/media/bootstrap-icons.woff2?": "/samsung-chatbot/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "index.html": "/samsung-chatbot/index.html",
-    "main.88e261b6.css.map": "/samsung-chatbot/static/css/main.88e261b6.css.map",
-    "main.e0aaf839.js.map": "/samsung-chatbot/static/js/main.e0aaf839.js.map",
+    "main.d082b25f.css.map": "/samsung-chatbot/static/css/main.d082b25f.css.map",
+    "main.b288fe04.js.map": "/samsung-chatbot/static/js/main.b288fe04.js.map",
     "453.792555a1.chunk.js.map": "/samsung-chatbot/static/js/453.792555a1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88e261b6.css",
-    "static/js/main.e0aaf839.js"
+    "static/css/main.d082b25f.css",
+    "static/js/main.b288fe04.js"
   ]
 }
